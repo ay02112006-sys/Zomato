@@ -1,0 +1,151 @@
+
+  {
+    image: "https://www.tripsavvy.com/thmb/WzbY1hD9IUUI2Y1WIEyvlYB8TWQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/26-5adafa56c6733500373c3cf5.jpg",
+    discount: "20% OFF",
+    name: "Burger Bistro",
+    type: "Fast Food, Burgers",
+    location: "Godowlia, Varanasi",
+    distance: "1.2 km",
+    rating: 4.2,
+    priceForTwo: "₹300"
+  },
+  {
+    image: "https://th.bing.com/th/id/R.281f362bff970c8caeff4d3931a731b0?rik=MtN8YDCntrRuTg&riu=http%3a%2f%2fwww.greavesindia.com%2fwp-content%2fuploads%2f2017%2f11%2f4-Aish.jpg&ehk=z1%2f7BwtTeGPR%2fuhVrgfEehMibispSe%2bsAce27nlNNVY%3d&risl=&pid=ImgRaw&r=0",
+    discount: "30% OFF",
+    name: "Pizza Planet",
+    type: "Italian, Pizza",
+    location: "Assi Ghat, Varanasi",
+    distance: "2.5 km",
+    rating: 4.5,
+    priceForTwo: "₹500"
+  },
+  {
+    image: "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2021/11/18150943/5r4t-24.jpg",
+    discount: "10% OFF",
+    name: "Dosa Delight",
+    type: "South Indian",
+    location: "Sigra, Varanasi",
+    distance: "1.8 km",
+    rating: 4.1,
+    priceForTwo: "₹250"
+  },
+  {
+    image: "https://tse1.mm.bing.net/th/id/OIP.ktKdsvMUOsYCxfTx_FuE-gHaE6?pid=Api&P=0&h=180",
+    discount: "25% OFF",
+    name: "Dragon Bowl",
+    type: "Chinese, Asian",
+    location: "Dashashwamedh Ghat, Varanasi",
+    distance: "3.0 km",
+    rating: 4.3,
+    priceForTwo: "₹450"
+  },
+  {
+    image: "https://www.tripsavvy.com/thmb/XtKEzkzgoJ8f7CTw3XAoAF6wBTw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ParikramaDelhi2-5adaedec8023b90036478c7e.jpg",
+    discount: "15% OFF",
+    name: "Rajasthani Rasoi",
+    type: "Indian, Thali",
+    location: "Bhelupur, Varanasi",
+    distance: "1.0 km",
+    rating: 3.9,
+    priceForTwo: "₹200"
+  },
+  {
+    image: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=400&q=80",
+    discount: "35% OFF",
+    name: "Wok Express",
+    type: "Chinese, Thai",
+    location: "Mahmoorganj, Varanasi",
+    distance: "2.2 km",
+    rating: 4.6,
+    priceForTwo: "₹600"
+  },
+  {
+    image: "https://tse4.mm.bing.net/th/id/OIP.6J4gi4z01v5inMECAfjypwHaE8?pid=Api&P=0&h=180",
+    discount: "40% OFF",
+    name: "Fit Feast",
+    type: "Healthy, Salads",
+    location: "Sunderpur, Varanasi",
+    distance: "2.9 km",
+    rating: 4.0,
+    priceForTwo: "₹350"
+  },
+  {
+    image: "https://tse4.mm.bing.net/th/id/OIP.uxyliTfOuGRpMEQfR2X_wgHaEK?pid=Api&P=0&h=180",
+    discount: "20% OFF",
+    name: "Grill House",
+    type: "American, Grill",
+    location: "BHU Campus, Varanasi",
+    distance: "1.7 km",
+    rating: 3.8,
+    priceForTwo: "₹550"
+  },
+  {
+    image: "https://restaurantindia.s3.ap-south-1.amazonaws.com/s3fs-public/2023-04/Pincode.jpg",
+    discount: "50% OFF",
+    name: "Biryani Hub",
+    type: "Mughlai, Biryani",
+    location: "Pandeypur, Varanasi",
+    distance: "3.5 km",
+    rating: 4.7,
+    priceForTwo: "₹400"
+  },
+  {
+    image: "https://tse4.mm.bing.net/th/id/OIP.cY4C_WT-bgmY-TUPJaoXWQHaE4?pid=Api&P=0&h=180",
+    discount: "15% OFF",
+    name: "Tandoori Flames",
+    type: "North Indian, Punjabi",
+    location: "Teliyabagh, Varanasi",
+    distance: "1.3 km",
+    rating: 4.0,
+    priceForTwo: "₹480"
+  },
+  {
+    image: "https://578ae522.delivery.rocketcdn.me/wp-content/uploads/2024/09/BANNER-24-2.jpg",
+    discount: "30% OFF",
+    name: "Global Bites",
+    type: "Continental, Fusion",
+    location: "Cantonment, Varanasi",
+    distance: "2.0 km",
+    rating: 4.3,
+    priceForTwo: "₹520"
+  },
+  {
+    image: "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2016/12/281216MasalaTrail01.jpg",
+    discount: "10% OFF",
+    name: "Brew & Bean",
+    type: "Cafe, Coffee, Desserts",
+    location: "Orderly Bazaar, Varanasi",
+    distance: "0.8 km",
+    rating: 4.4,
+    priceForTwo: "₹270"
+  },
+  {
+    image: "https://www.designpataki.com/wp-content/uploads/2024/02/5-Rooftop-Restaurants-in-India-Promise-A-Perfect-Golden-Hour-This-Valentines-Day-feature-image-.jpg",
+    discount: "25% OFF",
+    name: "Mithai Ghar",
+    type: "Indian Sweets, Snacks",
+    location: "Chowk, Varanasi",
+    distance: "1.5 km",
+    rating: 3.7,
+    priceForTwo: "₹150"
+  },
+  {
+    image: "https://www.top25restaurants.com/media/img/2023/08/worlds-best-restaurant-megu-india.jpg",
+    discount: "18% OFF",
+    name: "Pasta La Vista",
+    type: "Italian, Pasta",
+    location: "Lanka, Varanasi",
+    distance: "2.7 km",
+    rating: 4.2,
+    priceForTwo: "₹430"
+  },
+  {
+    image: "https://media.istockphoto.com/id/1163284610/photo/very-stylish-indian-gourmet-restaurant.jpg?s=612x612&w=0&k=20&c=-0Bz0mNjnrDoXApfo6P_xBrKmIMPZYJwQ5zAGEpzThI=",
+    discount: "20% OFF",
+    name: "BBQ Bay",
+    type: "Barbecue, Buffet",
+    location: "Kabir Chaura, Varanasi",
+    distance: "3.2 km",
+    rating: 4.6,
+    priceForTwo: "₹650"
+  }

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zomato</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="main">
+        <span id="darkicon"><i class="fa-solid fa-moon"></i> Dark</span>
+        <div class="main1">
+
+            <div class="header">
+                <img class="zomato-logo"
+                    src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png" alt="">
+                <div class="inp">
+                    <i class="fa-solid fa-location-dot" style="color: #fa0000;"></i>
+                    <input type="text" id="loc" class="he" placeholder="Varanasi">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="text" class="he" placeholder="Search for restaurant ,cuisine or dish">
+
+                </div>
+                <div class="but">
+                    <button class="buto">Login</button>
+                    <button class="buto">Sign up</button>
+                </div>
+            </div>
+            <div style="margin: 1rem; opacity: 0.5;">Home / India / Varanasi Restaurants</div>
+            <div class="type">
+                <div id="cur" class="ty"><img
+                        src="https://b.zmtcdn.com/data/o2_assets/30fa0a844f3ba82073e5f78c65c18b371616149662.png"
+                        alt="">Dining Out</div>
+                <div class="ty"><img
+                        src="https://b.zmtcdn.com/data/o2_assets/246bbd71fbba420d5996452be3024d351616150055.png"
+                        alt="">Delivery</div>
+                <div class="ty"><img
+                        src="https://b.zmtcdn.com/data/o2_assets/01040767e4943c398e38e3592bb1ba8a1616150142.png"
+                        alt="">Nightlife</div>
+            </div>
+        </div>
+        <div class="collection">
+            <div class="coll">
+                <h2>Collections</h2>
+                <h5>Explore curated lists of top restaurants, cafes, pubs, and bars in Varanasi, based on trends</h5>
+            </div>
+            <div class="scroll-wrapper">
+                <button class="scroll-btn left">&#10094;</button>
+                <div class="card">
+                    <div id="c1" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Pure veg Places</h5>
+                        <h5>20 Places ▶</h5>
+
+                    </div>
+                    <div id="c2" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Blisful Breakfast Places</h5>
+                        <h5>9 Places ▶</h5>
+
+                    </div>
+                    <div id="c3" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Best Family Friendly Places</h5>
+                        <h5>10 Places ▶</h5>
+
+                    </div>
+                    <div id="c4" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Great cafes</h5>
+                        <h5>8 Places▶</h5>
+
+                    </div>
+                    <div id="c5" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Best Luxury Dining Places</h5>
+                        <h5>14 Places▶</h5>
+
+                    </div>
+                    <div id="c6" class="cardd">
+                        <div class="overlay"></div>
+                        <h5>Bingeworthy Desserts</h5>
+                        <h5>8 Places▶</h5>
+
+                    </div>
+                </div>
+                <button class="scroll-btn right" onclick="">&#10095;</button>
+
+            </div>
+        </div>
+        <!-- <div class="filter">
+            <button class="fil"></button><button class="fil"></button><button class="fil"></button><button class="fil"></button><button class="fil"></button><button class="fil"></button><button class="fil"></button>
+        </div> -->
+        <div class="main2">
+            <div class="off"></div>
+            <div class="Res">
+                <h1>Restaurants in Varanasi</h1>
+                <div class="sortby">
+                    <h2>Sort by : </h2>
+                    <button class="sortbtn"> Price Low to high</button>
+                    <button class="sortbtn">Under 500</button>
+                </div>
+                <div class="res-container">
+                    <h3></h3>
+                    <h3></h3>
+                    <h3></h3>
+                </div>
+            </div>
+        </div>
+        <div class="foot">
+            <div class="foot1">
+                <div class="imgf"><img class="zomato-logo flogo"
+                        src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png?fit=around|198:42&crop=198:42;*,*"
+                        alt="image cannot be displayed"></div>
+                <div class="footselect">
+                    <select name="language" class="language">
+                        <option value="English">English</option>
+                        <option value="Hindi">Hindi</option>
+                    </select>
+                    <select name="country" class="country">
+                        <option value="India">India</option>
+                        <option value="USA">USA</option>
+                        <option value="UAE">UAE</option>
+                    </select>
+                </div>
+            </div>
+            <div class="foot2">
+                <div class="linksf2">
+                    <h2>ABOUT ZOMATO</h2>
+                    <h3>Who we are</h3>
+                    <h3>Blog</h3>
+                    <h3>Work With Us</h3>
+                    <h3>Investor Relations</h3>
+                    <h3>Report fraud</h3>
+                    <h3>Press Kit</h3>
+                    <h3>Contact Us</h3>
+                </div>
+                <div class="linksf2">
+                    <h2>ZOMAVERSE</h2>
+                    <h3>Zomato</h3>
+                    <h3>Blinkit</h3>
+                    <h3>District</h3>
+                    <h3>Feeding India</h3>
+                    <h3>HyperPure</h3>
+                    <h3>Zomato Live</h3>
+                    <h3>ZomatLand</h3>
+                    <h3>Weather Union</h3>
+                </div>
+                <div class="linksf2">
+                    <h2>FOR RESTAURANTS</h2>
+                    <h3>Partner With Us
+                    </h3>
+                    <h3>App For You</h3>
+                </div>
+                <div class="linksf2">
+                    <h2>LEARN MORE</h2>
+                    <h3>Privacy</h3>
+                    <h3>Security </h3>
+                    <h3>Terms</h3>
+                </div>
+                <div class="linksf2">
+                    <h2>SOCIAL LINKS</h2>
+                    <h3><i class="fa-brands fa-linkedin"></i><i class="fa-brands fa-square-instagram"></i><i
+                            class="fa-brands fa-youtube"></i><i class="fa-brands fa-facebook"></i></h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+
+</html>
