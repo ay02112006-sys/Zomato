@@ -181,6 +181,7 @@ html, body {
     gap:20px;
     padding-right:20px;
     margin-right: 3vw;
+    flex-wrap: wrap;
 }
 .overlay{
     position: absolute;
@@ -428,4 +429,10 @@ html, body {
     border: none;
     font-weight:700;
     font-size: 15px;
+}
+@media (max-width: 375px) {
+    
+    .cards {
+        width: min(100%, 155px);
+    }
 }
