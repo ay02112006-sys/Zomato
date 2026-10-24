@@ -430,12 +430,7 @@ html, body {
     font-weight:700;
     font-size: 15px;
 }
-/* @media (max-width: 375px) {
-    
-    .cards {
-        width: min(100%, 155px);
-    }
-} */
+/* fix*/
 @media (max-width: 375px) {
     .main1, .main2, .collection, .foot {
         padding: 15px;
